@@ -1,0 +1,1 @@
+This directory holds the local demonstration log file (keylog.log), created automatically the first time the server runs. The log file itself is intentionally excluded from version control (see .gitignore).

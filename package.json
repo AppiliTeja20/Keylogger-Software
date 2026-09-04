@@ -1,0 +1,23 @@
+{
+  "name": "keylogger-software-educational-demo",
+  "version": "1.0.0",
+  "description": "A safe, visible, consent-based Node.js demonstration of keystroke capture and logging, scoped to a single in-app test field. Built for a college assignment on input handling and local logging.",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No automated tests for this educational demo\" && exit 0"
+  },
+  "keywords": [
+    "keylogger",
+    "educational",
+    "demo",
+    "keystroke-logging",
+    "college-project"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
